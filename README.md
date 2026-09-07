@@ -114,6 +114,6 @@ Found a bug or have a useful improvement? [Open an issue](https://github.com/Zer
 
 ---
 
-Built by [Rohit Das](https://therohitdas.com) with [ZillAPI](https://zillapi.com). [MIT licensed](LICENSE).
+Powered by [ZillAPI](https://zillapi.com). [MIT licensed](LICENSE).
 
 ZillAPI is an independent service, not affiliated with Zillow Group. Zillow and Zestimate are trademarks of Zillow Group. The Grok Bot template is user-created; this repository is not an official xAI product.
