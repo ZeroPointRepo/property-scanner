@@ -8,7 +8,7 @@ Search US homes with [ZillAPI MCP](https://zillapi.com/ai-agents/), compare pric
 
 ```text
 Install this skill and onboard me:
-https://github.com/therohitdas/property-scanner
+https://github.com/ZeroPointRepo/property-scanner
 ```
 
 **[Add the Grok Bot →](https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu)** · [Install with npx](#install-with-npx) · [How it finds opportunities](#how-it-finds-opportunities)
@@ -43,7 +43,7 @@ The template runs in Grok Bot. This repository contains the original portable sk
 With Node.js installed, run:
 
 ```bash
-npx skills add therohitdas/property-scanner --skill property-scanner
+npx skills add ZeroPointRepo/property-scanner --skill property-scanner
 ```
 
 Choose your agent in the installer, then ask it:
@@ -110,7 +110,7 @@ To run the calculation tests:
 python3 -m unittest discover -s tests -v
 ```
 
-Found a bug or have a useful improvement? [Open an issue](https://github.com/therohitdas/property-scanner/issues). Use an anonymized example without credentials or personal search history.
+Found a bug or have a useful improvement? [Open an issue](https://github.com/ZeroPointRepo/property-scanner/issues). Use an anonymized example without credentials or personal search history.
 
 ---
 
