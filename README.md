@@ -7,7 +7,8 @@ Search US homes with [ZillAPI MCP](https://zillapi.com/ai-agents/), compare pric
 ### Copy this into your agent
 
 ```text
-Install the Property Scanner skill from https://github.com/therohitdas/property-scanner and onboard me.
+Install this skill and onboard me:
+https://github.com/therohitdas/property-scanner
 ```
 
 **[Add the Grok Bot →](https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu)** · [Install with npx](#install-with-npx) · [How it finds opportunities](#how-it-finds-opportunities)
