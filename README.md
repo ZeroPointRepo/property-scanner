@@ -112,6 +112,19 @@ python3 -m unittest discover -s tests -v
 
 Found a bug or have a useful improvement? [Open an issue](https://github.com/ZeroPointRepo/property-scanner/issues). Use an anonymized example without credentials or personal search history.
 
+## Related ZillAPI projects
+
+- [zillow-api](https://github.com/ZeroPointRepo/zillow-api): REST API docs and examples
+- [zillow-mcp](https://github.com/ZeroPointRepo/zillow-mcp): MCP server for Claude, ChatGPT, Cursor and Claude Code
+- [zillow-skills](https://github.com/ZeroPointRepo/zillow-skills): agent skills (one-command install)
+- [zillow-plugin](https://github.com/ZeroPointRepo/zillow-plugin): plugin for Claude Code and Cursor
+- [n8n-nodes-zillapi](https://github.com/ZeroPointRepo/n8n-nodes-zillapi): n8n community node
+- [crewai-zillapi](https://github.com/zillapi/crewai-zillapi): CrewAI tools
+- Examples: [zillapi-vercel-ai-sdk-example](https://github.com/ZeroPointRepo/zillapi-vercel-ai-sdk-example) (Vercel AI SDK), [zillapi-openai-agents-example](https://github.com/ZeroPointRepo/zillapi-openai-agents-example) (OpenAI Agents SDK)
+- Demos: [property-fair-value](https://github.com/ZeroPointRepo/property-fair-value), [property-scanner](https://github.com/ZeroPointRepo/property-scanner)
+
+Learn more: [Zillow API guide](https://zillapi.com/zillow-api/) · [For AI agents](https://zillapi.com/ai-agents/) · [Pricing](https://zillapi.com/pricing/) · [Zillow API alternatives](https://zillapi.com/alternatives/zillow-api/) · [Zillow's Claude connector vs ZillAPI](https://zillapi.com/compare/zillow-claude-connector-vs-zillapi/) · [Zillow API pricing explained](https://zillapi.com/blog/zillow-api-pricing/) · [YouTube](https://www.youtube.com/@zillapi)
+
 ---
 
 Powered by [ZillAPI](https://zillapi.com). [MIT licensed](LICENSE).
