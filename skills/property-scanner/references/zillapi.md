@@ -33,7 +33,7 @@ Sold comps are the valuation backbone; the Zestimate is only a conservative cap 
 - **Sold-pool refresh: at most 40 credits**, initially and no more than once every seven days. The initial scan therefore budgets at most 60 credits.
 - **Scanner allowance: 900 credits per billing period**, leaving room within a 1,000-credit plan for other use. Count every scanner call, including manual reruns and follow-ups. Use the actual billing/reset dates and available account balance, not an assumed calendar month.
 
-Search costs are per returned record, not per request. Reserve the maximum possible charge before each call; use reported usage when supplied, otherwise conservative published charges. Don't assume a lookup will be free merely because caching exists. Stop before a run or call exceeds its remaining allowance; explain a budget-limited result rather than loosening the comp rules. A changed area invalidates the old pool and may require a budgeted rebuild.
+Search costs are per returned record, not per request. Reserve the maximum possible charge before each call; use reported usage when supplied, otherwise conservative published charges. Stop before a run or call exceeds its remaining allowance; explain a budget-limited result rather than loosening the comp rules. A changed area invalidates the old pool and may require a budgeted rebuild.
 
 The ceilings permit up to 31 active scans (620 credits) plus five sold refreshes (200), totaling 820 before extra user requests. They do not guarantee five qualifying homes. A smaller pool trades coverage for cost; preserve the valuation rules and report fewer matches instead of weakening them.
 
